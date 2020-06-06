@@ -1,0 +1,102 @@
+.social-footer {
+    padding: 20px 0px 0px 0px !important;
+}
+
+.footer-contact {
+    padding: 20px 0px 0px 0px !important;
+}
+
+.footer-logo img {
+    width: 50px;
+    height: 80px;
+}
+
+.navbar-brand:hover {
+    color: black !important;
+}
+
+.nav-link:hover {
+    color: black !important;
+}
+
+.img-fluid {
+    margin: -12px !important;
+}
+
+.navbar-brand {
+    color: white !important;
+} 
+.nav-link {
+    color:  white !important;
+    
+}
+.navbar {
+    background-color: #E58E00 !important ;
+}
+
+
+.deals-card {
+    padding: 0px 0px;
+    margin: 8px 8px 8px 8px;
+}
+
+.bg-light-orange {
+    background-color:#E58E00 !important ;
+    
+}
+
+
+
+.jumbotron {
+    background-color: ;
+}
+
+
+.bg-dark-orange {
+    color: white !important;
+    background-color: #E68D02 !important;
+}
+
+.fa-facebook {
+    color:#E68D02 !important;
+    padding: 0px 2px 0px 2px;
+}
+
+.fa-twitter {
+    color:#E68D02 !important;
+}
+
+.fa-instagram {
+    color:#E68D02 !important;
+}
+
+.social-footer li {
+    display: inline-block;
+    margin-right: 8px;
+    color:#E68D02 !important;
+    background:white !important;
+    padding:4px 8px 4px 8px;
+    border-radius:50%;
+    font-size: 15px;
+
+}
+.social-footer a {
+    color: white;
+}
+
+.container-fluid img {
+    margin: 40px 0px;
+}
+.scroll-top{
+    color: white;
+    font-size: 25px;
+    position: fixed;
+    right: 40px;
+    bottom: 10px;
+    padding: 4px;     
+    display: block;
+    width: 50px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.1);
+    height: 50px;   
+}
